@@ -1,2 +1,0 @@
-weather ApI -b394c7746f862ae0ae38fdcc79e027bc
-newyork times API ;
